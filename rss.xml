@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[随机放映]]></title>
+		<description><![CDATA[万物源于随机，我们的电影选择也是。在随机放映RandomScreening，我们会不定期在小众电影库中随机行走，再与你分享我们的见闻。]]></description>
+		<link>RandomScreening.github.io</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14621849/14621849-1619334799464-50d209f3773f5.jpg</url>
+			<title>随机放映</title>
+			<link>https://anchor.fm/ramdomscreening</link>
+		</image>
+		<gener  ator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 17 Aug 2021 10:46:24 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/57bfc244/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[RamdomScreening]]></author>
+		<copyright><![CDATA[RamdomScreening]]></copyright>
+		<language><![CDATA[zh-cn]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>RamdomScreening</itunes:author>
+		<itunes:summary>万物源于随机，我们的电影选择也是。在随机放映RandomScreening，我们会不定期在小众电影库中随机行走，再与你分享我们的见闻。</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>RamdomScreening</itunes:name>
+			<itunes:email>podcasts60+57bfc244@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="TV &amp; Film"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14621849/14621849-1619334799464-50d209f3773f5.jpg"/>
+		<item>
+			<title><![CDATA[Ep01：乌龟意外之速游，幽灵世界]]></title>
+			<description><![CDATA[<p>随机放映第一集来啦！在这一期，三位主播Victor、揍苏和Kay随机选了两部电影《乌龟意外之速游》（导演：三木聪，主演：上野树里、苍井优）和《幽灵世界》（导演：泰利·茨威戈夫，主演：索拉·伯奇、斯嘉丽·约翰逊），和大家分享我们的感受，喜好，和脑洞。Enjoy。</p>
+<p><strong>所有影评都包含剧透，请大家小心~</strong></p>
+]]></description>
+			<link>https://anchor.fm/ramdomscreening/episodes/Ep01-e160ob8</link>
+			<guid isPermaLink="false">5df95950-32b0-416a-88f0-dcabca650006</guid>
+			<dc:creator><![CDATA[RamdomScreening]]></dc:creator>
+			<pubDate>Tue, 17 Aug 2021 04:41:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/57bfc244/podcast/play/38870824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-16%2Fa73d3eea-b762-e953-cdeb-361e851bfc40.mp3" length="66519498" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;随机放映第一集来啦！在这一期，三位主播Victor、揍苏和Kay随机选了两部电影《乌龟意外之速游》（导演：三木聪，主演：上野树里、苍井优）和《幽灵世界》（导演：泰利·茨威戈夫，主演：索拉·伯奇、斯嘉丽·约翰逊），和大家分享我们的感受，喜好，和脑洞。Enjoy。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;所有影评都包含剧透，请大家小心~&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3954</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14621849/14621849-1619334799464-50d209f3773f5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[随机试播 Random Pilot]]></title>
+			<description><![CDATA[<p>这是随机放映的第0期。在这期，我们为大家总结了自己2020年最喜欢的三部电影。</p>
+<p>Timestamps:&nbsp;</p>
+<p>00:00:11 - 姜子牙</p>
+<p>00:08:36 - 从不，很少，有时，总是（<em>Never, Rarely, Sometimes, Always</em>）</p>
+<p>00:22:46 - 心灵奇旅（<em>Soul</em>）</p>
+<p>00:35:05 - 第一头牛（<em>First Cow</em>）</p>
+<p>00:41:00 - 芝加哥七君子审判（<em>The Trial of the Chicago 7</em>）</p>
+<p>00:51:58 - 燃烧女子的肖像（<em>Portrait de la jeune fille en feu</em>）</p>
+<p>所有影评都包含剧透，请大家小心~</p>
+]]></description>
+			<link>https://anchor.fm/ramdomscreening/episodes/Random-Pilot-evjog6</link>
+			<guid isPermaLink="false">304fc5ea-b9f5-4a00-824b-08ca47b91978</guid>
+			<dc:creator><![CDATA[RamdomScreening]]></dc:creator>
+			<pubDate>Sun, 25 Apr 2021 07:10:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/57bfc244/podcast/play/32153542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-25%2F1dd02fb2-c49e-afc0-10bf-e74e57ff8e98.mp3" length="42788051" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;这是随机放映的第0期。在这期，我们为大家总结了自己2020年最喜欢的三部电影。&lt;/p&gt;
+&lt;p&gt;Timestamps:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;00:00:11 - 姜子牙&lt;/p&gt;
+&lt;p&gt;00:08:36 - 从不，很少，有时，总是（&lt;em&gt;Never, Rarely, Sometimes, Always&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;00:22:46 - 心灵奇旅（&lt;em&gt;Soul&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;00:35:05 - 第一头牛（&lt;em&gt;First Cow&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;00:41:00 - 芝加哥七君子审判（&lt;em&gt;The Trial of the Chicago 7&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;00:51:58 - 燃烧女子的肖像（&lt;em&gt;Portrait de la jeune fille en feu&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;所有影评都包含剧透，请大家小心~&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3594</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14621849/14621849-1619334799464-50d209f3773f5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
